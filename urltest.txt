@@ -19,6 +19,8 @@
 @@||restream.io^$important
 @@||tailscale.com^$important
 @@||tracking.trendyol.com^$important
+@@||deezer.com^$important
+@@||braze.com^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
