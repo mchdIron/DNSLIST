@@ -58,3 +58,4 @@
 ||marmaray.istanbul^
 ||jooble.org^
 ||emlakkulisi.com^
+||tabii.com^
