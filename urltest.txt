@@ -59,3 +59,7 @@
 ||jooble.org^
 ||emlakkulisi.com^
 ||tabii.com^
+||activity.windows.com^
+||vortex-win.data.microsoft.com^
+||telemetry.microsoft.com^
+||settings-win.data.microsoft.com^
