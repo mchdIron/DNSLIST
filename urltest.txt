@@ -21,6 +21,7 @@
 @@||tracking.trendyol.com^$important
 @@||deezer.com^$important
 @@||braze.com^$important
+@@||igg-games.com^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
