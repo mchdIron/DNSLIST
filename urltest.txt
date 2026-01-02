@@ -22,6 +22,7 @@
 @@||deezer.com^$important
 @@||braze.com^$important
 @@||igg-games.com^$important
+@@||vidmoly.me^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
