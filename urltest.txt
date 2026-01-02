@@ -23,6 +23,7 @@
 @@||braze.com^$important
 @@||igg-games.com^$important
 @@||vidmoly.me^$important
+@@||vidmoly.net^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
